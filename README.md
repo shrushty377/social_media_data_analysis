@@ -10,12 +10,19 @@ https://github.com/shrushty377/social_media_data_analysis/blob/76404ad60e1c8939f
 Questions (KPIs)
 
 Which platform shows the highest engagement?
+
 Which posts received the most interactions?
+
 What are the engagement trends across all platforms?
+
 Which platform contributes the most to overall engagement?
+
 How do likes, comments, shares, and views vary by platform?
+
 Which content type performs the best?
+
 What is the follower engagement rate across platforms?
+
 Which platform has the highest growth or interaction consistency?
 
 Dashboard Interaction
