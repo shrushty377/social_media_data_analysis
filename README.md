@@ -4,7 +4,7 @@ Project Objective
 The objective of this project is to analyze social media data from Facebook, YouTube, Instagram, and X using an interactive Excel dashboard. The analysis helps identify platform performance, engagement trends, and top-performing content to better understand audience behavior.
 
 Dataset Used
-
+https://github.com/shrushty377/social_media_data_analysis/blob/76404ad60e1c8939f09d3f1dbec439542e6e07ca/final%20dataset.xlsx
 
 
 Questions (KPIs)
@@ -20,5 +20,3 @@ Which platform has the highest growth or interaction consistency?
 
 Dashboard Interaction
 
-<a href="#">View Dashboard</a>
-(Add your dashboard image link after uploading your screenshot)
