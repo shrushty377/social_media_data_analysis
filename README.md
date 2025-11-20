@@ -5,7 +5,6 @@ The objective of this project is to analyze social media data from Facebook, You
 
 Dataset Used
 
-<a href="#"></a>
 
 
 Questions (KPIs)
