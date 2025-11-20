@@ -19,5 +19,9 @@ What is the follower engagement rate across platforms?
 Which platform has the highest growth or interaction consistency?
 
 Dashboard Interaction
-76404ad60e1c8939f09d3f1dbec439542e6e07ca
+https://github.com/shrushty377/social_media_data_analysis/blob/76404ad60e1c8939f09d3f1dbec439542e6e07ca/Screenshot%202025-11-20%20124324.png
+https://github.com/shrushty377/social_media_data_analysis/blob/76404ad60e1c8939f09d3f1dbec439542e6e07ca/Screenshot%202025-11-20%20124409.png
+https://github.com/shrushty377/social_media_data_analysis/blob/76404ad60e1c8939f09d3f1dbec439542e6e07ca/Screenshot%202025-11-20%20124505.png
+https://github.com/shrushty377/social_media_data_analysis/blob/76404ad60e1c8939f09d3f1dbec439542e6e07ca/Screenshot%202025-11-20%20124605.png
+https://github.com/shrushty377/social_media_data_analysis/blob/76404ad60e1c8939f09d3f1dbec439542e6e07ca/Screenshot%202025-11-20%20124649.png
 
