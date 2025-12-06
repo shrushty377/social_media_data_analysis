@@ -1,6 +1,7 @@
 Social-Media-Data-Analysis (Interactive Dashboard using MS Excel)
 
 Project Objective
+
 The objective of this project is to analyze social media data from Facebook, YouTube, Instagram, and X using an interactive Excel dashboard. The analysis helps identify platform performance, engagement trends, and top-performing content to better understand audience behavior.
 
 Dataset Used
